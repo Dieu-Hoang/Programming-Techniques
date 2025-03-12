@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Kỹ thuật lập trình.cpp">
+    <ClCompile Include="Bài1_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bài1_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
