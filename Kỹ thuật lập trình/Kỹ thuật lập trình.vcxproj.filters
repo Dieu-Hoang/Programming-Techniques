@@ -21,5 +21,8 @@
     <ClCompile Include="Bài1_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ex1_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
