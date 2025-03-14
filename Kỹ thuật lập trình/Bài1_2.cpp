@@ -13,6 +13,6 @@ int main() {
 	C = n / 10;
 	n %= 10;
 	D = n;
-	cout << N << " ngàn " << T << " trăm " << C << " chục " << D << " đơn vị ";
+	cout << N << " ngan " << T << " tram " << C << " chuc " << D << " don vi";
 	return 0;
 }
