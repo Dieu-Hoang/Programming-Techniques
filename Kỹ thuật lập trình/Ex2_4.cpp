@@ -34,16 +34,11 @@ int main() {
 			D += 1;
 		}
 	}*/
-	D = n;
 	for (int i = 2; i <= n; i++) {
-		for (int i = 2; i * i <= n; i++) {
-			if (n % i == 0) {
-				T -= i;
-				D -= 1;
-				break;
-			}
+		if (is_prime(i)) {
+			T += i;
+			D++;
 		}
-		T += i;
 	}
 
 	cout << "The sum of prime numbers in range [1, n]: T = " << T << endl;
