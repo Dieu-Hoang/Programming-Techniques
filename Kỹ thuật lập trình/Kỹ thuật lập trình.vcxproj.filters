@@ -45,5 +45,11 @@
     <ClCompile Include="Ex2_5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex3_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
