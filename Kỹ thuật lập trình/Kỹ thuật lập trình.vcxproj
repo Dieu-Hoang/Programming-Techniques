@@ -137,7 +137,11 @@
     <ClCompile Include="Ex2_3.cpp" />
     <ClCompile Include="Ex2_4.cpp" />
     <ClCompile Include="Ex2_5.cpp" />
+    <ClCompile Include="Ex3_4.cpp" />
     <ClCompile Include="Ex3_1.cpp" />
+    <ClCompile Include="Ex3_2.cpp" />
+    <ClCompile Include="Ex3_3.cpp" />
+    <ClCompile Include="Ex3_5.cpp" />
     <ClCompile Include="hello.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
