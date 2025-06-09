@@ -1,0 +1,2 @@
+Mang da nhap: 3 6 6 
+Mang sau khi chen: 3 4.5 6 6 
