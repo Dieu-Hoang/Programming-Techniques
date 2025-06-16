@@ -82,5 +82,6 @@ int main()
 	chuanHoa(ten, doDai);
 
 	hienTen(ten, doDai);
-	return 0;
+	delete[] ten;
+ 	return 0;
 }
